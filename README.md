@@ -1,2 +1,1 @@
-# Alphabet_Recognition_with_Mnist
- 
+Dataset: https://www.kaggle.com/datasets/crawford/emnist
